@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Finder</string>
+    <string name="settingsText">Ayarlar</string>
+    <string name="messagesText">Mesajlar</string>
+</resources>
